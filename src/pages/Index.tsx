@@ -7,9 +7,8 @@ const Index = () => {
   const [currentView, setCurrentView] = useState<'landing' | 'form' | 'dashboard'>('landing');
   const [userProfile, setUserProfile] = useState<any>(null);
 
-  const handleGetStarted = () => {
-    setCurrentView('form');
-  };
+  const handleGetStarted = () => setCurrentView('form');
+  const handleGoBack = () => setCurrentView('landing');
 
   const handleFormSubmit = (data: any) => {
     setUserProfile(data);
@@ -32,16 +31,18 @@ const Index = () => {
         return (
           <div className="min-h-screen bg-gradient-to-br from-background via-background to-primary/5 py-12">
             <div className="container mx-auto px-6">
-              <CareerDashboard userProfile={userProfile} />
+              <CareerDashboard 
+  userProfile={userProfile} 
+  onBack={() => setCurrentView('landing')}
+/>
             </div>
           </div>
         );
-      default:
-        return <LandingHero onGetStarted={handleGetStarted} />;
     }
   };
 
   return renderCurrentView();
 };
+
 
 export default Index;

@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import { Textarea } from "@/components/ui/textarea";
+import { Textarea } from "@/components/ui/textarea";  
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Progress } from "@/components/ui/progress";
@@ -39,11 +39,6 @@ interface CareerAdvisorFormProps {
   onSubmit: (data: FormData) => void;
 }
 
-const technicalSkillsOptions = [
-  "JavaScript", "Python", "React", "Node.js", "SQL", "AWS", "Docker", 
-  "Machine Learning", "Data Analysis", "UI/UX Design", "DevOps", "Cybersecurity"
-];
-
 const softSkillsOptions = [
   "Leadership", "Communication", "Problem Solving", "Team Collaboration", 
   "Project Management", "Critical Thinking", "Adaptability", "Creativity"
@@ -61,6 +56,7 @@ const domainOptions = [
 
 export function CareerAdvisorForm({ onSubmit }: CareerAdvisorFormProps) {
   const [currentStep, setCurrentStep] = useState(1);
+  const [dynamicSkills, setDynamicSkills] = useState<string[]>([]);
   const { toast } = useToast();
   const { saveProfile, loadProfile } = useProfilePersistence();
   const [formData, setFormData] = useState<FormData>({
@@ -82,15 +78,24 @@ export function CareerAdvisorForm({ onSubmit }: CareerAdvisorFormProps) {
 
   // Load saved profile on component mount
   useEffect(() => {
-    const savedProfile = loadProfile();
-    if (savedProfile) {
-      setFormData(prev => ({ ...prev, ...savedProfile }));
-      toast({
-        title: "Profile loaded",
-        description: "Your previously saved information has been restored.",
-      });
-    }
-  }, []);
+  const savedProfile = loadProfile();
+  if (savedProfile) {
+    setFormData(prev => ({ ...prev, ...savedProfile }));
+    toast({
+      title: "Profile loaded",
+      description: "Your previously saved information has been restored.",
+    });
+  }
+
+  // ✅ Fetch dynamic skills from backend
+  fetch("http://localhost:5050/skills")
+    .then(res => res.json())
+    .then(data => {
+      if (data.skills) setDynamicSkills(data.skills);
+    })
+    .catch(() => console.warn("⚠️ Could not load dynamic skills"));
+}, []);
+
 
   const totalSteps = 4;
   const progress = (currentStep / totalSteps) * 100;
@@ -202,16 +207,19 @@ export function CareerAdvisorForm({ onSubmit }: CareerAdvisorFormProps) {
             <div>
               <h3 className="text-lg font-semibold mb-4">Technical Skills</h3>
               <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
-                {technicalSkillsOptions.map((skill) => (
+                {dynamicSkills.map((skill) => (
                   <div key={skill} className="flex items-center space-x-2">
                     <Checkbox
                       id={`tech-${skill}`}
                       checked={formData.technicalSkills.includes(skill)}
                       onCheckedChange={() => handleSkillToggle(skill, 'technical')}
                     />
-                    <Label htmlFor={`tech-${skill}`} className="text-sm">{skill}</Label>
+                    <Label htmlFor={`tech-${skill}`} className="text-sm capitalize">
+                      {skill}
+                    </Label>
                   </div>
                 ))}
+
               </div>
             </div>
 

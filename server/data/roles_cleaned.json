@@ -1,0 +1,5140 @@
+{
+  "chief executives": [
+    "microsoft excel",
+    "oracle peoplesoft",
+    "php",
+    "structured query language sql"
+  ],
+  "chief sustainability officers": [
+    "microsoft excel",
+    "tableau"
+  ],
+  "general and operations managers": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "google analytics",
+    "google docs",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "postgresql",
+    "shell script",
+    "structured query language sql",
+    "tableau"
+  ],
+  "legislators": [
+    "microsoft excel",
+    "microsoft sql server",
+    "structured query language sql"
+  ],
+  "advertising and promotions managers": [
+    "google analytics",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "microsoft sql server",
+    "tableau"
+  ],
+  "marketing managers": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "cascading style sheets css",
+    "github",
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "nosql",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "php",
+    "python",
+    "ruby",
+    "structured query language sql",
+    "tableau"
+  ],
+  "sales managers": [
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql",
+    "tableau"
+  ],
+  "public relations managers": [
+    "google analytics",
+    "google docs",
+    "google workspace software",
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "fundraising managers": [
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "administrative services managers": [
+    "google docs",
+    "microsoft excel",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "facilities managers": [
+    "google docs",
+    "google workspace software",
+    "microsoft excel",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "security managers": [
+    "amazon web services aws software",
+    "microsoft azure software",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "computer and information systems managers": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "c#",
+    "c++",
+    "google analytics",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "shell script",
+    "spring framework",
+    "structured query language sql",
+    "tableau"
+  ],
+  "financial managers": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql",
+    "tableau"
+  ],
+  "treasurers and controllers": [
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "investment fund managers": [
+    "microsoft excel",
+    "microsoft power bi",
+    "structured query language sql",
+    "tableau"
+  ],
+  "industrial production managers": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "quality control systems managers": [
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "geothermal production managers": [
+    "microsoft excel"
+  ],
+  "biofuels production managers": [
+    "microsoft excel"
+  ],
+  "biomass power plant managers": [
+    "microsoft excel"
+  ],
+  "hydroelectric production managers": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database"
+  ],
+  "purchasing managers": [
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "transportation, storage, and distribution managers": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "supply chain managers": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle peoplesoft",
+    "structured query language sql"
+  ],
+  "compensation and benefits managers": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle peoplesoft",
+    "structured query language sql"
+  ],
+  "human resources managers": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "training and development managers": [
+    "javascript",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "farmers, ranchers, and other agricultural managers": [
+    "microsoft excel"
+  ],
+  "construction managers": [
+    "google docs",
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "education and childcare administrators, preschool and daycare": [
+    "microsoft excel"
+  ],
+  "education administrators, kindergarten through secondary": [
+    "microsoft excel"
+  ],
+  "education administrators, postsecondary": [
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "architectural and engineering managers": [
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle java",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "ruby",
+    "shell script",
+    "structured query language sql"
+  ],
+  "biofuels/biodiesel technology and product development managers": [
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "oracle java",
+    "oracle primavera enterprise project portfolio management",
+    "python"
+  ],
+  "food service managers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "gambling managers": [
+    "microsoft excel"
+  ],
+  "full stack developer": [
+    "javascript",
+    "node.js",
+    "react",
+    "sql",
+    "html",
+    "css",
+    "git"
+  ],
+  "frontend developer": [
+    "javascript",
+    "react",
+    "html",
+    "css"
+  ],
+  "backend developer": [
+    "node.js",
+    "express",
+    "sql",
+    "mongodb",
+    "linux"
+  ],
+  "data scientist": [
+    "python",
+    "pandas",
+    "numpy",
+    "sql",
+    "machine learning"
+  ],
+  "ml engineer": [
+    "python",
+    "tensorflow",
+    "pytorch",
+    "machine learning",
+    "docker",
+    "aws"
+  ],
+  "cybersecurity analyst": [
+    "linux"
+  ],
+  "entertainment and recreation managers, except gambling": [
+    "google docs",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "lodging managers": [
+    "microsoft excel"
+  ],
+  "medical and health services managers": [
+    "apache hadoop",
+    "google docs",
+    "google sheets",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql",
+    "tableau"
+  ],
+  "natural sciences managers": [
+    "microsoft excel",
+    "oracle database",
+    "structured query language sql"
+  ],
+  "clinical research coordinators": [
+    "microsoft excel",
+    "python"
+  ],
+  "water resource specialists": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "postmasters and mail superintendents": [
+    "microsoft excel"
+  ],
+  "property, real estate, and community association managers": [
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "social and community service managers": [
+    "microsoft excel"
+  ],
+  "emergency management directors": [
+    "microsoft excel"
+  ],
+  "funeral home managers": [
+    "microsoft excel"
+  ],
+  "fitness and wellness coordinators": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "spa managers": [
+    "microsoft excel"
+  ],
+  "regulatory affairs managers": [
+    "microsoft excel",
+    "structured query language sql",
+    "tableau"
+  ],
+  "compliance managers": [
+    "microsoft excel"
+  ],
+  "loss prevention managers": [
+    "google workspace software",
+    "microsoft excel",
+    "mysql",
+    "structured query language sql"
+  ],
+  "wind energy operations managers": [
+    "microsoft excel"
+  ],
+  "wind energy development managers": [
+    "microsoft excel"
+  ],
+  "brownfield redevelopment specialists and site managers": [
+    "linux",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server reporting services ssrs",
+    "oracle database",
+    "postgresql",
+    "python",
+    "tableau"
+  ],
+  "agents and business managers of artists, performers, and athletes": [
+    "microsoft excel"
+  ],
+  "buyers and purchasing agents, farm products": [
+    "amazon web services aws software",
+    "google angular",
+    "microsoft excel",
+    "oracle database"
+  ],
+  "wholesale and retail buyers, except farm products": [
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "purchasing agents, except wholesale, retail, and farm products": [
+    "google docs",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "claims adjusters, examiners, and investigators": [
+    "microsoft excel"
+  ],
+  "insurance appraisers, auto damage": [
+    "microsoft excel"
+  ],
+  "compliance officers": [
+    "microsoft excel"
+  ],
+  "environmental compliance inspectors": [
+    "microsoft excel"
+  ],
+  "equal opportunity representatives and officers": [
+    "microsoft excel"
+  ],
+  "government property inspectors and investigators": [
+    "microsoft excel"
+  ],
+  "coroners": [
+    "git",
+    "google android",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server reporting services ssrs",
+    "structured query language sql",
+    "transact-sql"
+  ],
+  "regulatory affairs specialists": [
+    "microsoft excel",
+    "microsoft sql server",
+    "structured query language sql"
+  ],
+  "customs brokers": [
+    "microsoft excel"
+  ],
+  "cost estimators": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "human resources specialists": [
+    "github",
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "tableau"
+  ],
+  "farm labor contractors": [
+    "microsoft excel"
+  ],
+  "labor relations specialists": [
+    "kubernetes",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "logisticians": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "logistics engineers": [
+    "c++",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "oracle database",
+    "oracle java",
+    "oracle primavera enterprise project portfolio management",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "logistics analysts": [
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql",
+    "tableau"
+  ],
+  "project management specialists": [
+    "git",
+    "github",
+    "google docs",
+    "google workspace software",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "tableau"
+  ],
+  "management analysts": [
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql"
+  ],
+  "meeting, convention, and event planners": [
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "fundraisers": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "compensation, benefits, and job analysis specialists": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle peoplesoft",
+    "structured query language sql"
+  ],
+  "training and development specialists": [
+    "django",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "mysql",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "php"
+  ],
+  "market research analysts and marketing specialists": [
+    "apache hadoop",
+    "cascading style sheets css",
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle peoplesoft",
+    "php",
+    "red hat enterprise linux",
+    "structured query language sql",
+    "tableau"
+  ],
+  "search marketing strategists": [
+    "cascading style sheets css",
+    "google analytics",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle java",
+    "php",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "business continuity planners": [
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "sustainability specialists": [
+    "google analytics",
+    "javascript",
+    "microsoft excel",
+    "microsoft power bi",
+    "oracle database",
+    "structured query language sql",
+    "tableau"
+  ],
+  "online merchants": [
+    "c#",
+    "google analytics",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle java",
+    "php",
+    "structured query language sql"
+  ],
+  "security management specialists": [
+    "amazon web services aws software",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "accountants and auditors": [
+    "google docs",
+    "google sheets",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql",
+    "tableau"
+  ],
+  "appraisers of personal and business property": [
+    "microsoft excel"
+  ],
+  "appraisers and assessors of real estate": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "budget analysts": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "credit analysts": [
+    "microsoft excel",
+    "microsoft sql server",
+    "python",
+    "structured query language sql"
+  ],
+  "financial and investment analysts": [
+    "google docs",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql",
+    "tableau"
+  ],
+  "personal financial advisors": [
+    "microsoft excel",
+    "microsoft sql server",
+    "structured query language sql"
+  ],
+  "insurance underwriters": [
+    "c++",
+    "microsoft excel"
+  ],
+  "financial risk specialists": [
+    "amazon web services aws software",
+    "c++",
+    "google docs",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "python",
+    "ruby",
+    "structured query language sql",
+    "tableau"
+  ],
+  "financial examiners": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "credit counselors": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "loan officers": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "tax examiners and collectors, and revenue agents": [
+    "microsoft excel",
+    "microsoft power bi"
+  ],
+  "tax preparers": [
+    "microsoft excel"
+  ],
+  "financial quantitative analysts": [
+    "amazon web services aws software",
+    "c#",
+    "c++",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "oracle java",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "fraud examiners, investigators and analysts": [
+    "microsoft excel",
+    "microsoft sql server",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "computer systems analysts": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle cloud software",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "oracle sql developer",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "health informatics specialists": [
+    "apache hadoop",
+    "javascript",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server reporting services ssrs",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "information security analysts": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google angular",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "unix shell"
+  ],
+  "computer and information research scientists": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "google analytics",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "php",
+    "postgresql",
+    "python",
+    "pytorch",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "tensorflow",
+    "transact-sql",
+    "unix shell"
+  ],
+  "computer network support specialists": [
+    "bash",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "mysql",
+    "oracle java",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "unix shell"
+  ],
+  "computer user support specialists": [
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "google android",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "computer network architects": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google android",
+    "google angular",
+    "hypertext markup language html",
+    "ibm terraform",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "telecommunications engineering specialists": [
+    "linux",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "oracle java",
+    "python",
+    "shell script",
+    "structured query language sql"
+  ],
+  "database administrators": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "oracle sql developer",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "database architects": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "oracle sql developer",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "data warehousing specialists": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "network and computer systems administrators": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "computer programmers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "software developers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "gitlab",
+    "go",
+    "google analytics",
+    "google android",
+    "google angular",
+    "google docs",
+    "google sheets",
+    "hypertext markup language html",
+    "ibm terraform",
+    "javascript",
+    "javascript object notation json",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle cloud software",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "oracle sql developer",
+    "php",
+    "postgresql",
+    "python",
+    "pytorch",
+    "react",
+    "red hat enterprise linux",
+    "redis",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "tensorflow",
+    "transact-sql",
+    "typescript",
+    "unix shell",
+    "vue.js"
+  ],
+  "software quality assurance analysts and testers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "google docs",
+    "google sheets",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "web developers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google android",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "redis",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "typescript",
+    "unix shell",
+    "vue.js"
+  ],
+  "web and digital interface designers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google android",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell",
+    "vue.js"
+  ],
+  "video game designers": [
+    "c#",
+    "c++",
+    "git",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle java",
+    "php",
+    "python",
+    "structured query language sql",
+    "typescript"
+  ],
+  "web administrators": [
+    "amazon web services aws software",
+    "cascading style sheets css",
+    "google analytics",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle java",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "shell script",
+    "structured query language sql"
+  ],
+  "geographic information systems technologists and technicians": [
+    "amazon web services aws software",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google angular",
+    "google workspace software",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "node.js",
+    "oracle java",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "typescript"
+  ],
+  "document management specialists": [
+    "google analytics",
+    "hypertext markup language html",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle java",
+    "oracle sql developer"
+  ],
+  "penetration testers": [
+    "amazon web services aws software",
+    "ansible software",
+    "bash",
+    "c#",
+    "c++",
+    "docker",
+    "github",
+    "go",
+    "google android",
+    "ibm terraform",
+    "javascript",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "php",
+    "python",
+    "ruby",
+    "shell script",
+    "structured query language sql"
+  ],
+  "information security engineers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "bash",
+    "c#",
+    "c++",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "ibm terraform",
+    "javascript",
+    "javascript object notation json",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "nosql",
+    "oracle java",
+    "php",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "unix shell"
+  ],
+  "digital forensics analysts": [
+    "amazon web services aws software",
+    "ansible software",
+    "bash",
+    "c#",
+    "c++",
+    "go",
+    "google workspace software",
+    "hypertext markup language html",
+    "ibm terraform",
+    "javascript",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "oracle java",
+    "php",
+    "python",
+    "ruby",
+    "structured query language sql"
+  ],
+  "blockchain engineers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "c#",
+    "c++",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google angular",
+    "ibm terraform",
+    "javascript",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle java",
+    "postgresql",
+    "python",
+    "react",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "typescript"
+  ],
+  "computer systems engineers/architects": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "gitlab",
+    "go",
+    "google analytics",
+    "google angular",
+    "hypertext markup language html",
+    "ibm terraform",
+    "javascript",
+    "javascript object notation json",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle cloud software",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "redis",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "typescript",
+    "unix shell"
+  ],
+  "information technology project managers": [
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle java 2 platform enterprise edition j2ee",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "php",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "spring framework",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "actuaries": [
+    "c++",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "oracle database",
+    "oracle java",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "mathematicians": [
+    "bash",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "mysql",
+    "oracle java",
+    "php",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "operations research analysts": [
+    "apache hadoop",
+    "bash",
+    "c++",
+    "github",
+    "google docs",
+    "linux",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "mysql",
+    "oracle peoplesoft",
+    "python",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "unix shell"
+  ],
+  "statisticians": [
+    "apache hadoop",
+    "apache spark",
+    "c++",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "biostatisticians": [
+    "bash",
+    "c#",
+    "c++",
+    "git",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle database",
+    "oracle java",
+    "php",
+    "python",
+    "shell script",
+    "structured query language sql"
+  ],
+  "data scientists": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "javascript",
+    "javascript object notation json",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "mongodb",
+    "nosql",
+    "oracle java",
+    "postgresql",
+    "python",
+    "pytorch",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "tensorflow"
+  ],
+  "business intelligence analysts": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "apache spark",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "git",
+    "github",
+    "go",
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft powershell",
+    "microsoft sql server",
+    "microsoft sql server integration services ssis",
+    "microsoft sql server reporting services ssrs",
+    "mongodb",
+    "mysql",
+    "nosql",
+    "oracle cloud software",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "oracle pl/sql",
+    "oracle primavera enterprise project portfolio management",
+    "oracle sql developer",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "tableau",
+    "transact-sql",
+    "unix shell"
+  ],
+  "clinical data managers": [
+    "c#",
+    "c++",
+    "go",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "bioinformatics technicians": [
+    "c++",
+    "git",
+    "hypertext markup language html",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "oracle database",
+    "oracle java",
+    "python",
+    "ruby",
+    "structured query language sql"
+  ],
+  "architects, except landscape and naval": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "mongodb",
+    "nosql",
+    "oracle primavera enterprise project portfolio management",
+    "postgresql"
+  ],
+  "landscape architects": [
+    "microsoft excel"
+  ],
+  "cartographers and photogrammetrists": [
+    "javascript object notation json",
+    "microsoft excel",
+    "oracle database",
+    "python",
+    "structured query language sql"
+  ],
+  "surveyors": [
+    "microsoft excel"
+  ],
+  "geodetic surveyors": [
+    "amazon web services aws software",
+    "c#",
+    "c++",
+    "hypertext markup language html",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "aerospace engineers": [
+    "c#",
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "shell script"
+  ],
+  "agricultural engineers": [
+    "microsoft excel",
+    "oracle database",
+    "oracle java"
+  ],
+  "bioengineers and biomedical engineers": [
+    "c++",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "python",
+    "red hat enterprise linux",
+    "structured query language sql"
+  ],
+  "chemical engineers": [
+    "c++",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "civil engineers": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management",
+    "shell script"
+  ],
+  "transportation engineers": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management",
+    "python",
+    "structured query language sql"
+  ],
+  "water/wastewater engineers": [
+    "bash",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "computer hardware engineers": [
+    "c++",
+    "git",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "shell script",
+    "structured query language sql"
+  ],
+  "electrical engineers": [
+    "bash",
+    "c#",
+    "c++",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle primavera enterprise project portfolio management",
+    "python",
+    "shell script"
+  ],
+  "electronics engineers, except computer": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "radio frequency identification device specialists": [
+    "c#",
+    "c++",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle java",
+    "python",
+    "ruby",
+    "structured query language sql"
+  ],
+  "environmental engineers": [
+    "c++",
+    "microsoft excel",
+    "python"
+  ],
+  "health and safety engineers, except mining safety engineers and inspectors": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "fire-prevention and protection engineers": [
+    "microsoft excel"
+  ],
+  "industrial engineers": [
+    "c++",
+    "github",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "python",
+    "shell script",
+    "structured query language sql",
+    "unix shell"
+  ],
+  "human factors engineers and ergonomists": [
+    "c++",
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python"
+  ],
+  "validation engineers": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "ibm terraform",
+    "javascript",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle java",
+    "php",
+    "postgresql",
+    "python",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "unix shell"
+  ],
+  "manufacturing engineers": [
+    "microsoft excel"
+  ],
+  "marine engineers and naval architects": [
+    "microsoft excel"
+  ],
+  "materials engineers": [
+    "c++",
+    "microsoft excel",
+    "oracle database",
+    "python"
+  ],
+  "mechanical engineers": [
+    "c++",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle primavera enterprise project portfolio management",
+    "python",
+    "shell script"
+  ],
+  "fuel cell engineers": [
+    "c++",
+    "microsoft excel",
+    "oracle database"
+  ],
+  "automotive engineers": [
+    "c#",
+    "c++",
+    "git",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft excel",
+    "node.js",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "mining and geological engineers, including mining safety engineers": [
+    "microsoft excel",
+    "mysql",
+    "oracle database"
+  ],
+  "nuclear engineers": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python"
+  ],
+  "petroleum engineers": [
+    "c#",
+    "c++",
+    "google analytics",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "python"
+  ],
+  "energy engineers, except wind and solar": [
+    "microsoft excel",
+    "python"
+  ],
+  "mechatronics engineers": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "microsystems engineers": [
+    "bash",
+    "c#",
+    "c++",
+    "git",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "shell script"
+  ],
+  "photonics engineers": [
+    "c#",
+    "c++",
+    "go",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "shell script"
+  ],
+  "robotics engineers": [
+    "amazon web services aws software",
+    "c#",
+    "c++",
+    "git",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "nanosystems engineers": [
+    "apache hadoop",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "wind energy engineers": [
+    "amazon web services aws software",
+    "c#",
+    "c++",
+    "git",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle java",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "solar energy systems engineers": [
+    "bash",
+    "c++",
+    "google workspace software",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "python",
+    "structured query language sql"
+  ],
+  "architectural and civil drafters": [
+    "microsoft excel"
+  ],
+  "electrical and electronics drafters": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "mechanical drafters": [
+    "microsoft excel"
+  ],
+  "aerospace engineering and operations technologists and technicians": [
+    "apache hadoop",
+    "c++",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle java",
+    "python",
+    "red hat enterprise linux",
+    "structured query language sql"
+  ],
+  "civil engineering technologists and technicians": [
+    "microsoft excel"
+  ],
+  "electrical and electronic engineering technologists and technicians": [
+    "c++",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle primavera enterprise project portfolio management",
+    "python"
+  ],
+  "electro-mechanical and mechatronics technologists and technicians": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "robotics technicians": [
+    "c#",
+    "c++",
+    "git",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "environmental engineering technologists and technicians": [
+    "c++",
+    "microsoft excel",
+    "python"
+  ],
+  "industrial engineering technologists and technicians": [
+    "c++",
+    "microsoft excel"
+  ],
+  "nanotechnology engineering technologists and technicians": [
+    "microsoft excel"
+  ],
+  "mechanical engineering technologists and technicians": [
+    "c++",
+    "microsoft excel"
+  ],
+  "automotive engineering technicians": [
+    "microsoft excel"
+  ],
+  "calibration technologists and technicians": [
+    "linux",
+    "microsoft excel"
+  ],
+  "non-destructive testing specialists": [
+    "microsoft excel"
+  ],
+  "photonics technicians": [
+    "microsoft excel"
+  ],
+  "surveying and mapping technicians": [
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "python",
+    "structured query language sql"
+  ],
+  "animal scientists": [
+    "microsoft excel",
+    "oracle peoplesoft",
+    "structured query language sql",
+    "tableau"
+  ],
+  "food scientists and technologists": [
+    "hypertext markup language html",
+    "microsoft excel",
+    "structured query language sql",
+    "tableau"
+  ],
+  "soil and plant scientists": [
+    "microsoft excel"
+  ],
+  "biochemists and biophysicists": [
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "microbiologists": [
+    "microsoft excel"
+  ],
+  "zoologists and wildlife biologists": [
+    "microsoft excel",
+    "python"
+  ],
+  "bioinformatics scientists": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "bash",
+    "c#",
+    "c++",
+    "django",
+    "docker",
+    "git",
+    "github",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "mysql",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle pl/sql",
+    "php",
+    "postgresql",
+    "python",
+    "ruby",
+    "shell script",
+    "structured query language sql",
+    "tableau"
+  ],
+  "molecular and cellular biologists": [
+    "c++",
+    "git",
+    "microsoft excel",
+    "python"
+  ],
+  "geneticists": [
+    "c++",
+    "git",
+    "github",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "biologists": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "conservation scientists": [
+    "microsoft excel"
+  ],
+  "range managers": [
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python"
+  ],
+  "park naturalists": [
+    "microsoft excel"
+  ],
+  "foresters": [
+    "microsoft excel"
+  ],
+  "epidemiologists": [
+    "microsoft excel",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "medical scientists, except epidemiologists": [
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "astronomers": [
+    "apache hadoop",
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "physicists": [
+    "amazon web services aws software",
+    "ansible software",
+    "c++",
+    "git",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "mysql",
+    "oracle database",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "atmospheric and space scientists": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "python",
+    "structured query language sql"
+  ],
+  "chemists": [
+    "c++",
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "materials scientists": [
+    "hypertext markup language html",
+    "microsoft excel",
+    "python"
+  ],
+  "environmental scientists and specialists, including health": [
+    "c++",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "climate change policy analysts": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "environmental restoration planners": [
+    "microsoft excel"
+  ],
+  "industrial ecologists": [
+    "apache hadoop",
+    "c#",
+    "git",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "python"
+  ],
+  "geoscientists, except hydrologists and geographers": [
+    "git",
+    "microsoft excel",
+    "mysql",
+    "python"
+  ],
+  "hydrologists": [
+    "c++",
+    "microsoft excel",
+    "python"
+  ],
+  "remote sensing scientists and technologists": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "bash",
+    "c#",
+    "c++",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "postgresql",
+    "python",
+    "ruby",
+    "structured query language sql",
+    "tableau"
+  ],
+  "economists": [
+    "c++",
+    "microsoft excel",
+    "microsoft power bi",
+    "microsoft sql server",
+    "mysql",
+    "oracle java",
+    "python",
+    "structured query language sql",
+    "tableau",
+    "unix shell"
+  ],
+  "environmental economists": [
+    "c#",
+    "c++",
+    "microsoft excel",
+    "microsoft sql server",
+    "mysql",
+    "python",
+    "tableau"
+  ],
+  "survey researchers": [
+    "c++",
+    "javascript",
+    "microsoft excel",
+    "oracle java",
+    "oracle peoplesoft",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "industrial-organizational psychologists": [
+    "google sheets",
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "clinical and counseling psychologists": [
+    "google docs",
+    "google sheets",
+    "microsoft excel"
+  ],
+  "school psychologists": [
+    "microsoft excel"
+  ],
+  "neuropsychologists": [
+    "microsoft excel"
+  ],
+  "clinical neuropsychologists": [
+    "microsoft excel"
+  ],
+  "sociologists": [
+    "microsoft excel"
+  ],
+  "urban and regional planners": [
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "anthropologists and archeologists": [
+    "c++",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "geographers": [
+    "microsoft excel",
+    "python",
+    "structured query language sql"
+  ],
+  "historians": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "political scientists": [
+    "microsoft excel",
+    "python",
+    "tableau"
+  ],
+  "transportation planners": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "agricultural technicians": [
+    "microsoft excel"
+  ],
+  "precision agriculture technicians": [
+    "microsoft excel"
+  ],
+  "food science technicians": [
+    "linux",
+    "microsoft excel",
+    "microsoft sql server"
+  ],
+  "biological technicians": [
+    "microsoft excel"
+  ],
+  "chemical technicians": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "python",
+    "structured query language sql"
+  ],
+  "environmental science and protection technicians, including health": [
+    "microsoft excel"
+  ],
+  "geological technicians, except hydrologic technicians": [
+    "microsoft excel"
+  ],
+  "hydrologic technicians": [
+    "microsoft excel"
+  ],
+  "nuclear technicians": [
+    "linux",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "nuclear monitoring technicians": [
+    "microsoft azure software",
+    "microsoft excel",
+    "oracle java",
+    "structured query language sql"
+  ],
+  "social science research assistants": [
+    "c++",
+    "javascript",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle java",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "forest and conservation technicians": [
+    "microsoft excel"
+  ],
+  "forensic science technicians": [
+    "linux",
+    "microsoft excel"
+  ],
+  "quality control analysts": [
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "microsoft sql server",
+    "structured query language sql"
+  ],
+  "remote sensing technicians": [
+    "amazon web services aws software",
+    "ansible software",
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "git",
+    "github",
+    "google analytics",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "mysql",
+    "oracle database",
+    "oracle java",
+    "python",
+    "react",
+    "shell script",
+    "structured query language sql",
+    "unix shell"
+  ],
+  "occupational health and safety specialists": [
+    "microsoft excel"
+  ],
+  "occupational health and safety technicians": [
+    "microsoft excel"
+  ],
+  "substance abuse and behavioral disorder counselors": [
+    "microsoft excel"
+  ],
+  "educational, guidance, and career counselors and advisors": [
+    "google docs",
+    "microsoft excel",
+    "microsoft sql server reporting services ssrs",
+    "oracle peoplesoft"
+  ],
+  "marriage and family therapists": [
+    "microsoft excel"
+  ],
+  "mental health counselors": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "rehabilitation counselors": [
+    "microsoft excel"
+  ],
+  "child, family, and school social workers": [
+    "microsoft excel"
+  ],
+  "healthcare social workers": [
+    "microsoft excel"
+  ],
+  "mental health and substance abuse social workers": [
+    "microsoft excel"
+  ],
+  "health education specialists": [
+    "microsoft excel"
+  ],
+  "probation officers and correctional treatment specialists": [
+    "microsoft excel"
+  ],
+  "social and human service assistants": [
+    "microsoft excel"
+  ],
+  "community health workers": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "clergy": [
+    "microsoft excel"
+  ],
+  "directors, religious activities and education": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "lawyers": [
+    "google analytics",
+    "microsoft excel"
+  ],
+  "judicial law clerks": [
+    "microsoft excel"
+  ],
+  "administrative law judges, adjudicators, and hearing officers": [
+    "microsoft excel"
+  ],
+  "arbitrators, mediators, and conciliators": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "judges, magistrate judges, and magistrates": [
+    "microsoft excel"
+  ],
+  "paralegals and legal assistants": [
+    "google docs",
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "title examiners, abstractors, and searchers": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "business teachers, postsecondary": [
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "computer science teachers, postsecondary": [
+    "c#",
+    "c++",
+    "google docs",
+    "hypertext markup language html",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "php",
+    "python"
+  ],
+  "mathematical science teachers, postsecondary": [
+    "google docs",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "architecture teachers, postsecondary": [
+    "microsoft excel"
+  ],
+  "engineering teachers, postsecondary": [
+    "c++",
+    "google docs",
+    "javascript",
+    "microsoft excel",
+    "oracle java",
+    "oracle primavera enterprise project portfolio management",
+    "python"
+  ],
+  "agricultural sciences teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "biological science teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "forestry and conservation science teachers, postsecondary": [
+    "google angular",
+    "google docs",
+    "javascript",
+    "microsoft excel",
+    "mysql",
+    "oracle database",
+    "oracle java"
+  ],
+  "atmospheric, earth, marine, and space sciences teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "chemistry teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "environmental science teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "physics teachers, postsecondary": [
+    "c++",
+    "google docs",
+    "microsoft excel"
+  ],
+  "anthropology and archeology teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "area, ethnic, and cultural studies teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "economics teachers, postsecondary": [
+    "google docs",
+    "microsoft excel",
+    "python"
+  ],
+  "geography teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "political science teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "psychology teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "sociology teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "health specialties teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "nursing instructors and teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "education teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "library science teachers, postsecondary": [
+    "c++",
+    "google docs",
+    "javascript",
+    "microsoft excel",
+    "mysql",
+    "php",
+    "structured query language sql"
+  ],
+  "criminal justice and law enforcement teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "law teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "social work teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "art, drama, and music teachers, postsecondary": [
+    "cascading style sheets css",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "mysql",
+    "php"
+  ],
+  "communications teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "english language and literature teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "foreign language and literature teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "history teachers, postsecondary": [
+    "google docs",
+    "javascript",
+    "microsoft excel"
+  ],
+  "philosophy and religion teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "family and consumer sciences teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "recreation and fitness studies teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "career/technical education teachers, postsecondary": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "preschool teachers, except special education": [
+    "microsoft excel"
+  ],
+  "kindergarten teachers, except special education": [
+    "microsoft excel"
+  ],
+  "elementary school teachers, except special education": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "middle school teachers, except special and career/technical education": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "career/technical education teachers, middle school": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "bash",
+    "c#",
+    "c++",
+    "docker",
+    "git",
+    "github",
+    "go",
+    "google angular",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "javascript object notation json",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "nosql",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "postgresql",
+    "python",
+    "react",
+    "red hat enterprise linux",
+    "ruby",
+    "shell script",
+    "spring boot",
+    "structured query language sql",
+    "tableau"
+  ],
+  "secondary school teachers, except special and career/technical education": [
+    "microsoft excel"
+  ],
+  "career/technical education teachers, secondary school": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "special education teachers, preschool": [
+    "microsoft excel"
+  ],
+  "special education teachers, kindergarten": [
+    "microsoft excel"
+  ],
+  "special education teachers, elementary school": [
+    "microsoft excel"
+  ],
+  "special education teachers, middle school": [
+    "microsoft excel"
+  ],
+  "special education teachers, secondary school": [
+    "microsoft excel"
+  ],
+  "adapted physical education specialists": [
+    "microsoft excel"
+  ],
+  "adult basic education, adult secondary education, and english as a second language instructors": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "self-enrichment teachers": [
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "substitute teachers, short-term": [
+    "microsoft excel"
+  ],
+  "tutors": [
+    "microsoft excel"
+  ],
+  "archivists": [
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "curators": [
+    "linux",
+    "microsoft excel",
+    "python"
+  ],
+  "museum technicians and conservators": [
+    "microsoft excel"
+  ],
+  "librarians and media collections specialists": [
+    "cascading style sheets css",
+    "google workspace software",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "oracle java",
+    "php",
+    "structured query language sql"
+  ],
+  "library technicians": [
+    "microsoft excel"
+  ],
+  "farm and home management educators": [
+    "microsoft excel"
+  ],
+  "instructional coordinators": [
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "oracle java",
+    "oracle pl/sql",
+    "structured query language sql"
+  ],
+  "teaching assistants, preschool, elementary, middle, and secondary school, except special education": [
+    "microsoft excel"
+  ],
+  "teaching assistants, special education": [
+    "microsoft excel"
+  ],
+  "teaching assistants, postsecondary": [
+    "google docs",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "art directors": [
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "php"
+  ],
+  "craft artists": [],
+  "fine artists, including painters, sculptors, and illustrators": [
+    "c#",
+    "c++",
+    "hypertext markup language html",
+    "javascript",
+    "python"
+  ],
+  "special effects artists and animators": [
+    "c++",
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "php",
+    "python"
+  ],
+  "commercial and industrial designers": [
+    "c#",
+    "c++",
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "python"
+  ],
+  "fashion designers": [
+    "javascript",
+    "microsoft excel"
+  ],
+  "floral designers": [
+    "microsoft excel"
+  ],
+  "graphic designers": [
+    "cascading style sheets css",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "php",
+    "structured query language sql"
+  ],
+  "interior designers": [
+    "microsoft excel"
+  ],
+  "merchandise displayers and window trimmers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "set and exhibit designers": [
+    "microsoft excel",
+    "oracle database",
+    "structured query language sql"
+  ],
+  "actors": [
+    "linux",
+    "microsoft excel"
+  ],
+  "producers and directors": [
+    "cascading style sheets css",
+    "google analytics",
+    "google docs",
+    "google workspace software",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "php"
+  ],
+  "media programming directors": [
+    "google analytics",
+    "hypertext markup language html",
+    "microsoft excel",
+    "microsoft sql server"
+  ],
+  "talent directors": [
+    "amazon web services aws software",
+    "linux",
+    "microsoft excel",
+    "oracle java"
+  ],
+  "media technical directors/managers": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "python",
+    "structured query language sql",
+    "unix shell"
+  ],
+  "athletes and sports competitors": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "coaches and scouts": [
+    "c++",
+    "google docs",
+    "microsoft excel"
+  ],
+  "umpires, referees, and other sports officials": [
+    "microsoft excel"
+  ],
+  "dancers": [],
+  "choreographers": [
+    "microsoft excel"
+  ],
+  "music directors and composers": [
+    "microsoft excel"
+  ],
+  "musicians and singers": [
+    "microsoft excel"
+  ],
+  "disc jockeys, except radio": [
+    "microsoft excel"
+  ],
+  "broadcast announcers and radio disc jockeys": [
+    "microsoft excel"
+  ],
+  "news analysts, reporters, and journalists": [
+    "hypertext markup language html",
+    "microsoft excel",
+    "microsoft sql server"
+  ],
+  "public relations specialists": [
+    "cascading style sheets css",
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel"
+  ],
+  "editors": [
+    "cascading style sheets css",
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "technical writers": [
+    "cascading style sheets css",
+    "git",
+    "github",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "oracle java",
+    "php",
+    "structured query language sql"
+  ],
+  "writers and authors": [
+    "google analytics",
+    "google docs",
+    "google workspace software",
+    "hypertext markup language html",
+    "microsoft excel",
+    "mysql",
+    "php"
+  ],
+  "poets, lyricists and creative writers": [
+    "microsoft excel"
+  ],
+  "interpreters and translators": [
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "court reporters and simultaneous captioners": [
+    "microsoft excel"
+  ],
+  "audio and video technicians": [
+    "linux",
+    "microsoft excel"
+  ],
+  "broadcast technicians": [
+    "linux",
+    "microsoft excel"
+  ],
+  "sound engineering technicians": [
+    "git",
+    "linux",
+    "microsoft excel",
+    "oracle java"
+  ],
+  "lighting technicians": [
+    "microsoft excel"
+  ],
+  "photographers": [
+    "microsoft excel"
+  ],
+  "camera operators, television, video, and film": [
+    "microsoft excel"
+  ],
+  "film and video editors": [
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel"
+  ],
+  "chiropractors": [
+    "microsoft excel"
+  ],
+  "dentists, general": [
+    "microsoft excel"
+  ],
+  "orthodontists": [],
+  "prosthodontists": [],
+  "dietitians and nutritionists": [
+    "microsoft excel"
+  ],
+  "optometrists": [
+    "microsoft excel",
+    "microsoft sql server"
+  ],
+  "pharmacists": [
+    "microsoft excel"
+  ],
+  "physician assistants": [
+    "microsoft excel"
+  ],
+  "anesthesiologist assistants": [
+    "microsoft excel"
+  ],
+  "podiatrists": [],
+  "occupational therapists": [
+    "microsoft excel"
+  ],
+  "low vision therapists, orientation and mobility specialists, and vision rehabilitation therapists": [
+    "amazon web services aws software",
+    "microsoft excel",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "python",
+    "ruby"
+  ],
+  "physical therapists": [
+    "microsoft excel"
+  ],
+  "radiation therapists": [
+    "microsoft excel"
+  ],
+  "recreational therapists": [
+    "microsoft excel"
+  ],
+  "respiratory therapists": [
+    "microsoft excel"
+  ],
+  "speech-language pathologists": [
+    "microsoft excel"
+  ],
+  "exercise physiologists": [
+    "microsoft excel"
+  ],
+  "art therapists": [
+    "microsoft excel"
+  ],
+  "music therapists": [],
+  "veterinarians": [
+    "microsoft excel"
+  ],
+  "registered nurses": [
+    "apache spark",
+    "google docs",
+    "microsoft excel"
+  ],
+  "acute care nurses": [
+    "microsoft excel"
+  ],
+  "advanced practice psychiatric nurses": [
+    "microsoft excel"
+  ],
+  "critical care nurses": [],
+  "clinical nurse specialists": [
+    "microsoft excel"
+  ],
+  "nurse anesthetists": [],
+  "nurse midwives": [
+    "microsoft excel"
+  ],
+  "nurse practitioners": [
+    "microsoft excel"
+  ],
+  "audiologists": [
+    "microsoft excel"
+  ],
+  "anesthesiologists": [
+    "microsoft excel"
+  ],
+  "cardiologists": [],
+  "dermatologists": [
+    "microsoft excel"
+  ],
+  "emergency medicine physicians": [],
+  "family medicine physicians": [
+    "microsoft excel"
+  ],
+  "general internal medicine physicians": [
+    "microsoft excel"
+  ],
+  "neurologists": [
+    "microsoft excel"
+  ],
+  "obstetricians and gynecologists": [
+    "microsoft excel"
+  ],
+  "pediatricians, general": [],
+  "physicians, pathologists": [
+    "microsoft excel"
+  ],
+  "psychiatrists": [
+    "microsoft excel"
+  ],
+  "radiologists": [
+    "microsoft excel"
+  ],
+  "allergists and immunologists": [
+    "microsoft excel"
+  ],
+  "hospitalists": [
+    "microsoft excel"
+  ],
+  "urologists": [
+    "microsoft excel"
+  ],
+  "physical medicine and rehabilitation physicians": [],
+  "preventive medicine physicians": [
+    "microsoft excel"
+  ],
+  "sports medicine physicians": [
+    "microsoft excel"
+  ],
+  "ophthalmologists, except pediatric": [
+    "microsoft excel"
+  ],
+  "orthopedic surgeons, except pediatric": [],
+  "pediatric surgeons": [],
+  "acupuncturists": [
+    "microsoft excel"
+  ],
+  "dental hygienists": [
+    "microsoft excel"
+  ],
+  "naturopathic physicians": [
+    "microsoft excel"
+  ],
+  "orthoptists": [
+    "microsoft excel"
+  ],
+  "medical and clinical laboratory technologists": [
+    "microsoft excel"
+  ],
+  "cytogenetic technologists": [
+    "c++",
+    "microsoft excel",
+    "python"
+  ],
+  "cytotechnologists": [
+    "ansible software",
+    "microsoft excel"
+  ],
+  "histotechnologists": [
+    "microsoft excel"
+  ],
+  "medical and clinical laboratory technicians": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "histology technicians": [
+    "microsoft excel"
+  ],
+  "cardiovascular technologists and technicians": [
+    "javascript",
+    "microsoft excel"
+  ],
+  "diagnostic medical sonographers": [
+    "microsoft excel"
+  ],
+  "nuclear medicine technologists": [
+    "microsoft excel"
+  ],
+  "radiologic technologists and technicians": [
+    "microsoft excel"
+  ],
+  "magnetic resonance imaging technologists": [
+    "microsoft excel"
+  ],
+  "medical dosimetrists": [],
+  "emergency medical technicians": [
+    "microsoft excel"
+  ],
+  "paramedics": [
+    "microsoft excel"
+  ],
+  "dietetic technicians": [
+    "microsoft excel"
+  ],
+  "pharmacy technicians": [
+    "microsoft excel"
+  ],
+  "psychiatric technicians": [
+    "microsoft excel"
+  ],
+  "surgical technologists": [
+    "microsoft excel"
+  ],
+  "veterinary technologists and technicians": [
+    "microsoft excel"
+  ],
+  "ophthalmic medical technicians": [
+    "microsoft excel"
+  ],
+  "licensed practical and licensed vocational nurses": [
+    "microsoft excel"
+  ],
+  "medical records specialists": [
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "structured query language sql",
+    "tableau"
+  ],
+  "opticians, dispensing": [
+    "microsoft excel"
+  ],
+  "orthotists and prosthetists": [
+    "microsoft excel"
+  ],
+  "hearing aid specialists": [
+    "microsoft excel"
+  ],
+  "neurodiagnostic technologists": [
+    "javascript",
+    "microsoft excel"
+  ],
+  "ophthalmic medical technologists": [
+    "javascript",
+    "microsoft excel"
+  ],
+  "patient representatives": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "health information technologists and medical registrars": [
+    "microsoft excel",
+    "microsoft sql server",
+    "microsoft sql server reporting services ssrs",
+    "structured query language sql",
+    "tableau"
+  ],
+  "athletic trainers": [
+    "microsoft excel"
+  ],
+  "genetic counselors": [
+    "microsoft excel"
+  ],
+  "surgical assistants": [
+    "microsoft excel"
+  ],
+  "midwives": [
+    "microsoft excel"
+  ],
+  "home health aides": [
+    "linux",
+    "microsoft excel",
+    "oracle database",
+    "python"
+  ],
+  "personal care aides": [],
+  "nursing assistants": [
+    "apache spark",
+    "microsoft excel"
+  ],
+  "orderlies": [
+    "microsoft excel"
+  ],
+  "psychiatric aides": [
+    "microsoft excel"
+  ],
+  "occupational therapy assistants": [
+    "microsoft excel"
+  ],
+  "occupational therapy aides": [
+    "microsoft excel"
+  ],
+  "physical therapist assistants": [
+    "microsoft excel"
+  ],
+  "physical therapist aides": [
+    "microsoft excel"
+  ],
+  "massage therapists": [
+    "microsoft excel"
+  ],
+  "dental assistants": [
+    "microsoft excel"
+  ],
+  "medical assistants": [
+    "microsoft excel"
+  ],
+  "medical equipment preparers": [
+    "microsoft excel"
+  ],
+  "medical transcriptionists": [
+    "microsoft excel"
+  ],
+  "pharmacy aides": [
+    "microsoft excel"
+  ],
+  "veterinary assistants and laboratory animal caretakers": [
+    "microsoft excel"
+  ],
+  "phlebotomists": [
+    "javascript",
+    "microsoft excel"
+  ],
+  "speech-language pathology assistants": [
+    "microsoft excel"
+  ],
+  "endoscopy technicians": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of correctional officers": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of police and detectives": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of firefighting and prevention workers": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of security workers": [
+    "microsoft excel"
+  ],
+  "firefighters": [
+    "microsoft excel"
+  ],
+  "fire inspectors and investigators": [
+    "microsoft excel"
+  ],
+  "forest fire inspectors and prevention specialists": [
+    "amazon web services aws cloudformation",
+    "amazon web services aws software",
+    "ansible software",
+    "docker",
+    "git",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server"
+  ],
+  "bailiffs": [
+    "microsoft excel"
+  ],
+  "correctional officers and jailers": [
+    "microsoft excel"
+  ],
+  "detectives and criminal investigators": [
+    "linux",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "police identification and records officers": [
+    "linux",
+    "microsoft excel"
+  ],
+  "intelligence analysts": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "apache spark",
+    "c++",
+    "django",
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft powershell",
+    "microsoft sql server",
+    "oracle java",
+    "oracle peoplesoft",
+    "python",
+    "structured query language sql",
+    "tableau",
+    "tensorflow"
+  ],
+  "fish and game wardens": [
+    "microsoft excel"
+  ],
+  "parking enforcement workers": [
+    "microsoft excel"
+  ],
+  "police and sheriff's patrol officers": [
+    "microsoft excel"
+  ],
+  "customs and border protection officers": [
+    "microsoft excel"
+  ],
+  "transit and railroad police": [
+    "microsoft excel"
+  ],
+  "animal control workers": [
+    "microsoft excel"
+  ],
+  "private detectives and investigators": [
+    "microsoft excel"
+  ],
+  "gambling surveillance officers and gambling investigators": [
+    "microsoft excel"
+  ],
+  "security guards": [
+    "microsoft excel"
+  ],
+  "crossing guards and flaggers": [],
+  "lifeguards, ski patrol, and other recreational protective service workers": [
+    "microsoft excel"
+  ],
+  "transportation security screeners": [
+    "linux",
+    "microsoft excel",
+    "oracle java"
+  ],
+  "school bus monitors": [],
+  "retail loss prevention specialists": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "chefs and head cooks": [
+    "google sheets",
+    "microsoft excel"
+  ],
+  "first-line supervisors of food preparation and serving workers": [
+    "microsoft excel"
+  ],
+  "cooks, fast food": [
+    "microsoft excel"
+  ],
+  "cooks, institution and cafeteria": [
+    "microsoft excel"
+  ],
+  "cooks, private household": [],
+  "cooks, restaurant": [
+    "microsoft excel"
+  ],
+  "food preparation workers": [
+    "microsoft excel"
+  ],
+  "bartenders": [],
+  "fast food and counter workers": [
+    "microsoft excel"
+  ],
+  "baristas": [
+    "microsoft excel"
+  ],
+  "waiters and waitresses": [],
+  "food servers, nonrestaurant": [],
+  "dining room and cafeteria attendants and bartender helpers": [
+    "microsoft excel"
+  ],
+  "dishwashers": [],
+  "hosts and hostesses, restaurant, lounge, and coffee shop": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of housekeeping and janitorial workers": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of landscaping, lawn service, and groundskeeping workers": [
+    "microsoft excel"
+  ],
+  "janitors and cleaners, except maids and housekeeping cleaners": [
+    "microsoft excel"
+  ],
+  "maids and housekeeping cleaners": [
+    "microsoft excel"
+  ],
+  "pest control workers": [
+    "microsoft excel"
+  ],
+  "landscaping and groundskeeping workers": [
+    "microsoft excel"
+  ],
+  "pesticide handlers, sprayers, and applicators, vegetation": [
+    "google android",
+    "microsoft excel"
+  ],
+  "tree trimmers and pruners": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of gambling services workers": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of entertainment and recreation workers, except gambling services": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of personal service workers": [
+    "microsoft excel"
+  ],
+  "animal trainers": [
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "animal caretakers": [
+    "microsoft excel"
+  ],
+  "gambling dealers": [
+    "apache hadoop",
+    "apache spark",
+    "microsoft excel"
+  ],
+  "gambling and sports book writers and runners": [
+    "microsoft excel"
+  ],
+  "motion picture projectionists": [
+    "microsoft excel"
+  ],
+  "ushers, lobby attendants, and ticket takers": [
+    "microsoft excel"
+  ],
+  "amusement and recreation attendants": [
+    "microsoft excel"
+  ],
+  "costume attendants": [
+    "microsoft excel"
+  ],
+  "locker room, coatroom, and dressing room attendants": [
+    "microsoft excel"
+  ],
+  "embalmers": [
+    "microsoft excel"
+  ],
+  "crematory operators": [
+    "microsoft excel"
+  ],
+  "funeral attendants": [
+    "microsoft excel"
+  ],
+  "morticians, undertakers, and funeral arrangers": [
+    "microsoft excel"
+  ],
+  "barbers": [
+    "linux",
+    "microsoft excel"
+  ],
+  "hairdressers, hairstylists, and cosmetologists": [
+    "microsoft excel"
+  ],
+  "makeup artists, theatrical and performance": [
+    "microsoft excel"
+  ],
+  "manicurists and pedicurists": [
+    "microsoft excel"
+  ],
+  "shampooers": [],
+  "skincare specialists": [
+    "microsoft excel"
+  ],
+  "baggage porters and bellhops": [
+    "microsoft excel"
+  ],
+  "concierges": [
+    "microsoft excel"
+  ],
+  "tour guides and escorts": [
+    "microsoft excel"
+  ],
+  "travel guides": [
+    "microsoft excel",
+    "structured query language sql",
+    "tableau"
+  ],
+  "childcare workers": [],
+  "nannies": [
+    "microsoft excel"
+  ],
+  "exercise trainers and group fitness instructors": [
+    "microsoft excel"
+  ],
+  "recreation workers": [
+    "microsoft excel"
+  ],
+  "residential advisors": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "first-line supervisors of retail sales workers": [
+    "google analytics",
+    "google docs",
+    "microsoft excel",
+    "oracle database",
+    "oracle primavera enterprise project portfolio management",
+    "tableau"
+  ],
+  "first-line supervisors of non-retail sales workers": [
+    "microsoft excel"
+  ],
+  "cashiers": [
+    "microsoft excel"
+  ],
+  "gambling change persons and booth cashiers": [
+    "microsoft excel"
+  ],
+  "counter and rental clerks": [
+    "microsoft excel",
+    "oracle database"
+  ],
+  "parts salespersons": [
+    "microsoft excel"
+  ],
+  "retail salespersons": [
+    "google docs",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "advertising sales agents": [
+    "google analytics",
+    "microsoft excel"
+  ],
+  "insurance sales agents": [
+    "microsoft excel"
+  ],
+  "securities, commodities, and financial services sales agents": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java",
+    "oracle peoplesoft",
+    "python"
+  ],
+  "travel agents": [
+    "microsoft excel"
+  ],
+  "sales representatives of services, except advertising, insurance, financial services, and travel": [
+    "microsoft excel"
+  ],
+  "sales representatives, wholesale and manufacturing, technical and scientific products": [
+    "amazon web services aws software",
+    "apache hadoop",
+    "google analytics",
+    "google workspace software",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "solar sales representatives and assessors": [
+    "google workspace software",
+    "microsoft excel"
+  ],
+  "sales representatives, wholesale and manufacturing, except technical and scientific products": [
+    "google analytics",
+    "google docs",
+    "hypertext markup language html",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "tableau"
+  ],
+  "demonstrators and product promoters": [
+    "hypertext markup language html",
+    "microsoft excel"
+  ],
+  "models": [
+    "microsoft excel"
+  ],
+  "real estate brokers": [
+    "microsoft excel"
+  ],
+  "real estate sales agents": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "sales engineers": [
+    "amazon web services aws software",
+    "ansible software",
+    "apache hadoop",
+    "c++",
+    "docker",
+    "google workspace software",
+    "javascript",
+    "kubernetes",
+    "linux",
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle java",
+    "oracle peoplesoft",
+    "php",
+    "python",
+    "react",
+    "ruby",
+    "shell script",
+    "structured query language sql"
+  ],
+  "telemarketers": [
+    "microsoft excel"
+  ],
+  "door-to-door sales workers, news and street vendors, and related workers": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of office and administrative support workers": [
+    "google docs",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft",
+    "tableau"
+  ],
+  "switchboard operators, including answering service": [
+    "microsoft excel"
+  ],
+  "telephone operators": [
+    "microsoft excel"
+  ],
+  "bill and account collectors": [
+    "microsoft excel"
+  ],
+  "billing and posting clerks": [
+    "microsoft excel"
+  ],
+  "bookkeeping, accounting, and auditing clerks": [
+    "google docs",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "gambling cage workers": [
+    "microsoft excel"
+  ],
+  "payroll and timekeeping clerks": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "procurement clerks": [
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "tellers": [
+    "microsoft excel"
+  ],
+  "brokerage clerks": [
+    "microsoft excel",
+    "oracle peoplesoft",
+    "structured query language sql"
+  ],
+  "correspondence clerks": [
+    "microsoft excel"
+  ],
+  "court, municipal, and license clerks": [
+    "microsoft excel"
+  ],
+  "credit authorizers, checkers, and clerks": [
+    "microsoft excel",
+    "structured query language sql",
+    "tableau"
+  ],
+  "customer service representatives": [
+    "google docs",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft"
+  ],
+  "eligibility interviewers, government programs": [
+    "microsoft excel"
+  ],
+  "file clerks": [
+    "microsoft excel"
+  ],
+  "hotel, motel, and resort desk clerks": [
+    "microsoft excel"
+  ],
+  "interviewers, except eligibility and loan": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "library assistants, clerical": [
+    "c++",
+    "microsoft excel"
+  ],
+  "loan interviewers and clerks": [
+    "microsoft excel"
+  ],
+  "new accounts clerks": [
+    "microsoft excel"
+  ],
+  "order clerks": [
+    "microsoft excel"
+  ],
+  "human resources assistants, except payroll and timekeeping": [
+    "google docs",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "receptionists and information clerks": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "reservation and transportation ticket agents and travel clerks": [
+    "microsoft excel"
+  ],
+  "cargo and freight agents": [
+    "microsoft excel"
+  ],
+  "freight forwarders": [
+    "microsoft excel"
+  ],
+  "couriers and messengers": [
+    "microsoft excel"
+  ],
+  "public safety telecommunicators": [
+    "microsoft excel"
+  ],
+  "dispatchers, except police, fire, and ambulance": [
+    "microsoft excel"
+  ],
+  "meter readers, utilities": [
+    "microsoft excel"
+  ],
+  "postal service clerks": [],
+  "postal service mail carriers": [],
+  "postal service mail sorters, processors, and processing machine operators": [
+    "microsoft excel"
+  ],
+  "production, planning, and expediting clerks": [
+    "google docs",
+    "microsoft excel",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "shipping, receiving, and inventory clerks": [
+    "microsoft excel"
+  ],
+  "weighers, measurers, checkers, and samplers, recordkeeping": [
+    "microsoft excel",
+    "oracle database"
+  ],
+  "executive secretaries and executive administrative assistants": [
+    "google docs",
+    "google workspace software",
+    "microsoft excel",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "legal secretaries and administrative assistants": [
+    "microsoft excel"
+  ],
+  "medical secretaries and administrative assistants": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "secretaries and administrative assistants, except legal, medical, and executive": [
+    "apache hadoop",
+    "google docs",
+    "google sheets",
+    "google workspace software",
+    "hypertext markup language html",
+    "linux",
+    "microsoft excel",
+    "microsoft sql server",
+    "oracle database",
+    "oracle peoplesoft",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "data entry keyers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "word processors and typists": [
+    "google workspace software",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "desktop publishers": [
+    "cascading style sheets css",
+    "hypertext markup language html",
+    "javascript",
+    "microsoft excel",
+    "mysql",
+    "oracle java",
+    "php",
+    "python"
+  ],
+  "insurance claims and policy processing clerks": [
+    "microsoft excel"
+  ],
+  "mail clerks and mail machine operators, except postal service": [
+    "microsoft excel"
+  ],
+  "office clerks, general": [
+    "google docs",
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "office machine operators, except computer": [
+    "microsoft excel"
+  ],
+  "proofreaders and copy markers": [
+    "microsoft excel"
+  ],
+  "statistical assistants": [
+    "c#",
+    "c++",
+    "google workspace software",
+    "microsoft excel",
+    "oracle java",
+    "oracle pl/sql",
+    "python",
+    "structured query language sql",
+    "tableau"
+  ],
+  "first-line supervisors of farming, fishing, and forestry workers": [
+    "microsoft excel"
+  ],
+  "agricultural inspectors": [
+    "microsoft excel"
+  ],
+  "animal breeders": [
+    "microsoft excel"
+  ],
+  "graders and sorters, agricultural products": [
+    "microsoft excel"
+  ],
+  "agricultural equipment operators": [
+    "microsoft excel"
+  ],
+  "farmworkers and laborers, crop, nursery, and greenhouse": [
+    "microsoft excel"
+  ],
+  "farmworkers, farm, ranch, and aquacultural animals": [
+    "microsoft excel"
+  ],
+  "fishing and hunting workers": [
+    "microsoft excel"
+  ],
+  "forest and conservation workers": [
+    "microsoft excel"
+  ],
+  "fallers": [
+    "microsoft excel"
+  ],
+  "logging equipment operators": [
+    "microsoft excel"
+  ],
+  "log graders and scalers": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of construction trades and extraction workers": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "solar energy installation managers": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "boilermakers": [
+    "microsoft excel"
+  ],
+  "brickmasons and blockmasons": [
+    "microsoft excel"
+  ],
+  "stonemasons": [
+    "microsoft excel"
+  ],
+  "carpenters": [
+    "microsoft excel"
+  ],
+  "carpet installers": [
+    "microsoft excel"
+  ],
+  "floor layers, except carpet, wood, and hard tiles": [],
+  "floor sanders and finishers": [
+    "microsoft excel"
+  ],
+  "tile and stone setters": [
+    "microsoft excel"
+  ],
+  "terrazzo workers and finishers": [
+    "microsoft excel"
+  ],
+  "construction laborers": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "paving, surfacing, and tamping equipment operators": [
+    "microsoft excel"
+  ],
+  "pile driver operators": [
+    "microsoft excel"
+  ],
+  "operating engineers and other construction equipment operators": [
+    "microsoft excel"
+  ],
+  "drywall and ceiling tile installers": [],
+  "tapers": [],
+  "electricians": [
+    "microsoft excel"
+  ],
+  "glaziers": [
+    "microsoft excel"
+  ],
+  "insulation workers, floor, ceiling, and wall": [
+    "microsoft excel"
+  ],
+  "painters, construction and maintenance": [
+    "microsoft excel"
+  ],
+  "paperhangers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "pipelayers": [
+    "microsoft excel"
+  ],
+  "plumbers, pipefitters, and steamfitters": [
+    "microsoft excel"
+  ],
+  "solar thermal installers and technicians": [
+    "microsoft excel",
+    "oracle java"
+  ],
+  "plasterers and stucco masons": [
+    "linux",
+    "microsoft excel",
+    "oracle database"
+  ],
+  "roofers": [
+    "microsoft excel"
+  ],
+  "sheet metal workers": [
+    "microsoft excel"
+  ],
+  "structural iron and steel workers": [],
+  "solar photovoltaic installers": [
+    "microsoft excel"
+  ],
+  "helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters": [
+    "microsoft excel"
+  ],
+  "helpers--carpenters": [
+    "linux",
+    "microsoft excel",
+    "oracle database"
+  ],
+  "helpers--electricians": [
+    "microsoft excel"
+  ],
+  "helpers--painters, paperhangers, plasterers, and stucco masons": [
+    "microsoft excel"
+  ],
+  "helpers--pipelayers, plumbers, pipefitters, and steamfitters": [
+    "microsoft excel"
+  ],
+  "construction and building inspectors": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "energy auditors": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "python",
+    "structured query language sql"
+  ],
+  "elevator and escalator installers and repairers": [
+    "microsoft excel"
+  ],
+  "fence erectors": [
+    "microsoft excel"
+  ],
+  "hazardous materials removal workers": [
+    "microsoft excel"
+  ],
+  "highway maintenance workers": [
+    "microsoft excel"
+  ],
+  "rail-track laying and maintenance equipment operators": [
+    "microsoft excel"
+  ],
+  "septic tank servicers and sewer pipe cleaners": [
+    "microsoft excel"
+  ],
+  "segmental pavers": [
+    "microsoft excel"
+  ],
+  "weatherization installers and technicians": [
+    "microsoft excel"
+  ],
+  "derrick operators, oil and gas": [
+    "microsoft excel"
+  ],
+  "rotary drill operators, oil and gas": [
+    "microsoft excel",
+    "python"
+  ],
+  "service unit operators, oil and gas": [
+    "microsoft excel"
+  ],
+  "excavating and loading machine and dragline operators, surface mining": [
+    "microsoft excel"
+  ],
+  "earth drillers, except oil and gas": [
+    "microsoft excel"
+  ],
+  "explosives workers, ordnance handling experts, and blasters": [
+    "microsoft excel"
+  ],
+  "continuous mining machine operators": [
+    "microsoft excel"
+  ],
+  "loading and moving machine operators, underground mining": [
+    "microsoft excel"
+  ],
+  "rock splitters, quarry": [
+    "microsoft excel"
+  ],
+  "roustabouts, oil and gas": [
+    "microsoft excel"
+  ],
+  "helpers--extraction workers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "first-line supervisors of mechanics, installers, and repairers": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "computer, automated teller, and office machine repairers": [
+    "hypertext markup language html",
+    "javascript",
+    "linux",
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "radio, cellular, and tower equipment installers and repairers": [
+    "microsoft excel"
+  ],
+  "telecommunications equipment installers and repairers, except line installers": [
+    "microsoft excel"
+  ],
+  "avionics technicians": [
+    "c++",
+    "linux",
+    "microsoft excel",
+    "oracle java"
+  ],
+  "electric motor, power tool, and related repairers": [
+    "microsoft excel",
+    "python"
+  ],
+  "electrical and electronics installers and repairers, transportation equipment": [
+    "linux",
+    "microsoft excel"
+  ],
+  "electrical and electronics repairers, commercial and industrial equipment": [
+    "microsoft excel"
+  ],
+  "electrical and electronics repairers, powerhouse, substation, and relay": [
+    "microsoft excel"
+  ],
+  "electronic equipment installers and repairers, motor vehicles": [
+    "microsoft excel"
+  ],
+  "audiovisual equipment installers and repairers": [
+    "microsoft excel"
+  ],
+  "security and fire alarm systems installers": [
+    "microsoft excel"
+  ],
+  "aircraft mechanics and service technicians": [
+    "microsoft excel"
+  ],
+  "automotive body and related repairers": [
+    "microsoft excel"
+  ],
+  "automotive glass installers and repairers": [],
+  "automotive service technicians and mechanics": [
+    "microsoft excel"
+  ],
+  "bus and truck mechanics and diesel engine specialists": [
+    "microsoft excel"
+  ],
+  "farm equipment mechanics and service technicians": [
+    "microsoft excel"
+  ],
+  "mobile heavy equipment mechanics, except engines": [
+    "microsoft excel"
+  ],
+  "rail car repairers": [
+    "microsoft excel"
+  ],
+  "motorboat mechanics and service technicians": [
+    "microsoft excel"
+  ],
+  "motorcycle mechanics": [
+    "microsoft excel"
+  ],
+  "outdoor power equipment and other small engine mechanics": [
+    "microsoft excel"
+  ],
+  "bicycle repairers": [
+    "microsoft excel"
+  ],
+  "recreational vehicle service technicians": [
+    "microsoft excel"
+  ],
+  "tire repairers and changers": [
+    "microsoft excel"
+  ],
+  "mechanical door repairers": [
+    "microsoft excel"
+  ],
+  "control and valve installers and repairers, except mechanical door": [
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management",
+    "structured query language sql"
+  ],
+  "heating, air conditioning, and refrigeration mechanics and installers": [
+    "microsoft excel"
+  ],
+  "home appliance repairers": [
+    "microsoft excel"
+  ],
+  "industrial machinery mechanics": [
+    "microsoft excel"
+  ],
+  "maintenance workers, machinery": [
+    "microsoft excel"
+  ],
+  "millwrights": [
+    "microsoft excel"
+  ],
+  "refractory materials repairers, except brickmasons": [
+    "microsoft excel"
+  ],
+  "electrical power-line installers and repairers": [
+    "microsoft excel"
+  ],
+  "telecommunications line installers and repairers": [
+    "microsoft excel"
+  ],
+  "camera and photographic equipment repairers": [
+    "microsoft excel"
+  ],
+  "medical equipment repairers": [
+    "microsoft excel"
+  ],
+  "watch and clock repairers": [
+    "microsoft excel"
+  ],
+  "maintenance and repair workers, general": [
+    "google docs",
+    "linux",
+    "microsoft excel",
+    "oracle primavera enterprise project portfolio management"
+  ],
+  "wind turbine service technicians": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "coin, vending, and amusement machine servicers and repairers": [
+    "microsoft excel"
+  ],
+  "locksmiths and safe repairers": [
+    "microsoft excel"
+  ],
+  "manufactured building and mobile home installers": [
+    "microsoft excel"
+  ],
+  "riggers": [
+    "microsoft excel"
+  ],
+  "signal and track switch repairers": [
+    "microsoft excel"
+  ],
+  "helpers--installation, maintenance, and repair workers": [
+    "microsoft excel"
+  ],
+  "geothermal technicians": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of production and operating workers": [
+    "microsoft excel"
+  ],
+  "aircraft structure, surfaces, rigging, and systems assemblers": [
+    "microsoft excel"
+  ],
+  "electrical and electronic equipment assemblers": [
+    "microsoft excel"
+  ],
+  "electromechanical equipment assemblers": [
+    "microsoft excel"
+  ],
+  "engine and other machine assemblers": [
+    "microsoft excel"
+  ],
+  "structural metal fabricators and fitters": [
+    "microsoft excel"
+  ],
+  "fiberglass laminators and fabricators": [
+    "microsoft excel"
+  ],
+  "timing device assemblers and adjusters": [],
+  "team assemblers": [
+    "microsoft excel"
+  ],
+  "bakers": [
+    "microsoft excel"
+  ],
+  "butchers and meat cutters": [
+    "microsoft excel"
+  ],
+  "meat, poultry, and fish cutters and trimmers": [
+    "microsoft excel"
+  ],
+  "slaughterers and meat packers": [
+    "microsoft excel"
+  ],
+  "food and tobacco roasting, baking, and drying machine operators and tenders": [
+    "microsoft excel"
+  ],
+  "food batchmakers": [],
+  "extruding and drawing machine setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "cutting, punching, and press machine setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "drilling and boring machine tool setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "milling and planing machine setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "machinists": [
+    "microsoft excel"
+  ],
+  "metal-refining furnace operators and tenders": [
+    "microsoft excel"
+  ],
+  "pourers and casters, metal": [
+    "microsoft excel"
+  ],
+  "model makers, metal and plastic": [
+    "microsoft excel"
+  ],
+  "patternmakers, metal and plastic": [
+    "microsoft excel"
+  ],
+  "foundry mold and coremakers": [],
+  "molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "multiple machine tool setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "tool and die makers": [
+    "microsoft excel"
+  ],
+  "welders, cutters, solderers, and brazers": [
+    "microsoft excel",
+    "oracle database"
+  ],
+  "welding, soldering, and brazing machine setters, operators, and tenders": [
+    "linux",
+    "microsoft excel"
+  ],
+  "heat treating equipment setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "layout workers, metal and plastic": [
+    "microsoft excel"
+  ],
+  "plating machine setters, operators, and tenders, metal and plastic": [
+    "microsoft excel"
+  ],
+  "tool grinders, filers, and sharpeners": [
+    "microsoft excel"
+  ],
+  "prepress technicians and workers": [
+    "microsoft excel"
+  ],
+  "printing press operators": [
+    "microsoft excel"
+  ],
+  "print binding and finishing workers": [
+    "microsoft excel"
+  ],
+  "laundry and dry-cleaning workers": [
+    "microsoft excel"
+  ],
+  "pressers, textile, garment, and related materials": [
+    "microsoft excel"
+  ],
+  "sewing machine operators": [
+    "microsoft excel"
+  ],
+  "shoe and leather workers and repairers": [
+    "microsoft excel"
+  ],
+  "shoe machine operators and tenders": [
+    "microsoft excel"
+  ],
+  "sewers, hand": [
+    "microsoft excel"
+  ],
+  "tailors, dressmakers, and custom sewers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "textile bleaching and dyeing machine operators and tenders": [
+    "linux",
+    "microsoft excel"
+  ],
+  "textile cutting machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "textile knitting and weaving machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "textile winding, twisting, and drawing out machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "extruding and forming machine setters, operators, and tenders, synthetic and glass fibers": [
+    "microsoft excel"
+  ],
+  "fabric and apparel patternmakers": [
+    "microsoft excel"
+  ],
+  "upholsterers": [
+    "microsoft excel"
+  ],
+  "cabinetmakers and bench carpenters": [
+    "microsoft excel"
+  ],
+  "furniture finishers": [],
+  "model makers, wood": [
+    "microsoft excel"
+  ],
+  "patternmakers, wood": [
+    "microsoft excel"
+  ],
+  "sawing machine setters, operators, and tenders, wood": [
+    "microsoft excel"
+  ],
+  "woodworking machine setters, operators, and tenders, except sawing": [
+    "microsoft excel",
+    "oracle java"
+  ],
+  "nuclear power reactor operators": [
+    "microsoft azure software",
+    "microsoft excel",
+    "microsoft power bi",
+    "structured query language sql"
+  ],
+  "power distributors and dispatchers": [
+    "microsoft excel"
+  ],
+  "power plant operators": [
+    "microsoft excel"
+  ],
+  "biomass plant technicians": [
+    "microsoft excel"
+  ],
+  "hydroelectric plant technicians": [
+    "microsoft excel"
+  ],
+  "stationary engineers and boiler operators": [
+    "microsoft excel"
+  ],
+  "water and wastewater treatment plant and system operators": [
+    "microsoft excel"
+  ],
+  "chemical plant and system operators": [
+    "microsoft excel"
+  ],
+  "gas plant operators": [
+    "microsoft excel"
+  ],
+  "petroleum pump system operators, refinery operators, and gaugers": [
+    "microsoft excel"
+  ],
+  "biofuels processing technicians": [
+    "microsoft excel",
+    "python",
+    "tableau"
+  ],
+  "chemical equipment operators and tenders": [
+    "microsoft excel"
+  ],
+  "separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "crushing, grinding, and polishing machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "grinding and polishing workers, hand": [
+    "microsoft excel"
+  ],
+  "mixing and blending machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "cutters and trimmers, hand": [
+    "microsoft excel"
+  ],
+  "cutting and slicing machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "extruding, forming, pressing, and compacting machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "furnace, kiln, oven, drier, and kettle operators and tenders": [
+    "microsoft excel"
+  ],
+  "inspectors, testers, sorters, samplers, and weighers": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "jewelers and precious stone and metal workers": [
+    "microsoft excel"
+  ],
+  "dental laboratory technicians": [
+    "microsoft excel"
+  ],
+  "medical appliance technicians": [
+    "microsoft excel"
+  ],
+  "ophthalmic laboratory technicians": [
+    "microsoft excel"
+  ],
+  "packaging and filling machine operators and tenders": [
+    "microsoft excel"
+  ],
+  "painting, coating, and decorating workers": [
+    "microsoft excel"
+  ],
+  "coating, painting, and spraying machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "semiconductor processing technicians": [
+    "microsoft excel",
+    "python"
+  ],
+  "photographic process workers and processing machine operators": [
+    "amazon web services aws software",
+    "cascading style sheets css",
+    "docker",
+    "git",
+    "microsoft excel",
+    "mongodb",
+    "mysql",
+    "structured query language sql",
+    "typescript"
+  ],
+  "computer numerically controlled tool operators": [
+    "microsoft excel"
+  ],
+  "computer numerically controlled tool programmers": [
+    "microsoft excel"
+  ],
+  "adhesive bonding machine operators and tenders": [
+    "microsoft excel"
+  ],
+  "cleaning, washing, and metal pickling equipment operators and tenders": [
+    "microsoft excel"
+  ],
+  "cooling and freezing equipment operators and tenders": [
+    "microsoft excel"
+  ],
+  "etchers and engravers": [],
+  "molders, shapers, and casters, except metal and plastic": [
+    "microsoft excel"
+  ],
+  "stone cutters and carvers, manufacturing": [
+    "microsoft excel"
+  ],
+  "glass blowers, molders, benders, and finishers": [
+    "microsoft excel"
+  ],
+  "potters, manufacturing": [
+    "microsoft excel"
+  ],
+  "paper goods machine setters, operators, and tenders": [
+    "microsoft excel"
+  ],
+  "tire builders": [
+    "microsoft excel"
+  ],
+  "helpers--production workers": [
+    "microsoft excel"
+  ],
+  "aircraft cargo handling supervisors": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of helpers, laborers, and material movers, hand": [
+    "microsoft excel",
+    "oracle database"
+  ],
+  "recycling coordinators": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of material-moving machine and vehicle operators": [
+    "microsoft excel"
+  ],
+  "first-line supervisors of passenger attendants": [
+    "microsoft excel"
+  ],
+  "airline pilots, copilots, and flight engineers": [
+    "microsoft excel"
+  ],
+  "commercial pilots": [],
+  "air traffic controllers": [
+    "microsoft excel"
+  ],
+  "airfield operations specialists": [
+    "linux",
+    "microsoft excel",
+    "oracle database"
+  ],
+  "flight attendants": [
+    "microsoft excel"
+  ],
+  "ambulance drivers and attendants, except emergency medical technicians": [
+    "microsoft excel"
+  ],
+  "driver/sales workers": [
+    "microsoft excel"
+  ],
+  "heavy and tractor-trailer truck drivers": [
+    "microsoft excel"
+  ],
+  "light truck drivers": [
+    "microsoft excel"
+  ],
+  "bus drivers, school": [],
+  "bus drivers, transit and intercity": [],
+  "shuttle drivers and chauffeurs": [
+    "microsoft excel"
+  ],
+  "taxi drivers": [
+    "microsoft excel"
+  ],
+  "locomotive engineers": [
+    "microsoft excel"
+  ],
+  "railroad brake, signal, and switch operators and locomotive firers": [
+    "microsoft excel"
+  ],
+  "railroad conductors and yardmasters": [
+    "microsoft excel"
+  ],
+  "subway and streetcar operators": [],
+  "sailors and marine oilers": [
+    "microsoft excel"
+  ],
+  "captains, mates, and pilots of water vessels": [
+    "microsoft excel"
+  ],
+  "ship engineers": [
+    "microsoft excel",
+    "oracle database"
+  ],
+  "bridge and lock tenders": [
+    "microsoft excel",
+    "oracle peoplesoft"
+  ],
+  "parking attendants": [
+    "microsoft excel"
+  ],
+  "automotive and watercraft service attendants": [
+    "microsoft excel"
+  ],
+  "aircraft service attendants": [
+    "microsoft excel"
+  ],
+  "traffic technicians": [
+    "c++",
+    "microsoft excel",
+    "oracle database",
+    "python",
+    "tableau"
+  ],
+  "transportation inspectors": [
+    "google android",
+    "microsoft excel"
+  ],
+  "aviation inspectors": [
+    "microsoft excel"
+  ],
+  "transportation vehicle, equipment and systems inspectors, except aviation": [
+    "microsoft excel",
+    "structured query language sql"
+  ],
+  "passenger attendants": [],
+  "conveyor operators and tenders": [
+    "microsoft excel"
+  ],
+  "crane and tower operators": [
+    "microsoft excel"
+  ],
+  "hoist and winch operators": [
+    "microsoft excel"
+  ],
+  "industrial truck and tractor operators": [
+    "microsoft excel"
+  ],
+  "cleaners of vehicles and equipment": [],
+  "laborers and freight, stock, and material movers, hand": [
+    "google docs",
+    "microsoft excel",
+    "oracle database"
+  ],
+  "recycling and reclamation workers": [
+    "microsoft excel"
+  ],
+  "machine feeders and offbearers": [
+    "microsoft excel"
+  ],
+  "packers and packagers, hand": [
+    "microsoft excel"
+  ],
+  "stockers and order fillers": [
+    "google docs",
+    "microsoft excel"
+  ],
+  "gas compressor and gas pumping station operators": [
+    "microsoft excel"
+  ],
+  "pump operators, except wellhead pumpers": [
+    "microsoft excel"
+  ],
+  "wellhead pumpers": [
+    "microsoft excel"
+  ],
+  "tank car, truck, and ship loaders": [
+    "linux",
+    "microsoft excel"
+  ]
+}

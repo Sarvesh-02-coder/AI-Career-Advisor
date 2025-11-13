@@ -130,3 +130,45 @@ All colors MUST be HSL.
     @apply bg-background text-foreground;
   }
 }
+
+/* Smooth UI Animations & Interactions */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Subtle global transitions */
+* {
+  transition: all 0.25s ease-out;
+}
+
+/* Remove ugly focus outlines & replace with soft glow */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Hover lift effect (used on cards & buttons) */
+.hover-tilt {
+  transform: translateY(0);
+}
+.hover-tilt:hover {
+  transform: translateY(-4px);
+}
+h1, h2, h3, h4 {
+  letter-spacing: -0.5px;
+  font-family: "Inter", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+* {
+  transition: all 0.25s ease-out;
+}
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+.hover-tilt:hover {
+  transform: translateY(-4px);
+}
+

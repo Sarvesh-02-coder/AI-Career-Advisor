@@ -40,3 +40,60 @@
 .read-the-docs {
   color: #888;
 }
+
+/* === PREMIUM GLASS UI STYLES === */
+
+.bg-gradient-card {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #7b5cff, #5a28f5);
+}
+
+.bg-gradient-accent {
+  background: radial-gradient(circle at 30% 30%, #ffb55e, #ff8e3c);
+}
+
+/* Badge premium styling */
+.badge-premium {
+  border-radius: 999px;
+  background: linear-gradient(to right, #7b5cff, #d66bff);
+  color: white;
+  padding: 0.3rem 0.75rem;
+  font-weight: 600;
+}
+
+/* Shadows */
+.shadow-glow {
+  box-shadow: 0 0 14px rgba(124, 87, 255, 0.55);
+}
+.shadow-card {
+  box-shadow: 0 4px 14px rgba(20, 20, 20, 0.08);
+}
+
+/* Floating pulse backgrounds */
+.bg-gradient-soft {
+  background: linear-gradient(145deg, #fafaff, #f4f2ff);
+}
+.bg-gradient-card {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+}
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #7b5cff, #5a28f5);
+}
+.badge-premium {
+  border-radius: 999px;
+  background: linear-gradient(to right, #7b5cff, #d66bff);
+  color: white;
+  padding: 0.3rem 0.75rem;
+  font-weight: 600;
+}
+.shadow-glow {
+  box-shadow: 0 0 14px rgba(124, 87, 255, 0.55);
+}
+

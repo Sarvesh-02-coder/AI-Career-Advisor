@@ -1,0 +1,57 @@
+[
+  {
+    "role": "Machine Learning Engineer",
+    "technicalSkills": ["Python", "TensorFlow", "PyTorch", "Deep Learning", "Docker", "MLOps", "AWS"],
+    "softSkills": ["Analytical Thinking", "Problem Solving", "Team Collaboration"],
+    "domains": ["AI/ML", "Software Engineering"],
+    "tasks": [
+      "Build, train, and deploy ML models",
+      "Automate ML pipelines and monitoring",
+      "Collaborate with data scientists and platform teams"
+    ]
+  },
+  {
+    "role": "Data Scientist",
+    "technicalSkills": ["Python", "SQL", "Statistics", "Machine Learning", "Data Visualization"],
+    "softSkills": ["Critical Thinking", "Communication"],
+    "domains": ["Data", "Analytics"],
+    "tasks": [
+      "Explore and analyze data to answer business questions",
+      "Build predictive models",
+      "Present insights to stakeholders"
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "technicalSkills": ["JavaScript", "React", "Node.js", "SQL", "APIs", "Testing", "Docker"],
+    "softSkills": ["Team Collaboration", "Problem Solving"],
+    "domains": ["Software Engineering", "Web"],
+    "tasks": [
+      "Design, implement, and deploy full stack features",
+      "Write tests and CI/CD pipelines",
+      "Collaborate with designers and product managers"
+    ]
+  },
+  {
+    "role": "Backend Developer",
+    "technicalSkills": ["Node.js", "Express", "SQL", "MongoDB", "APIs", "Caching"],
+    "softSkills": ["System Thinking", "Communication"],
+    "domains": ["Software Engineering", "Cloud"],
+    "tasks": [
+      "Design REST/GraphQL APIs",
+      "Optimize databases and caching",
+      "Own service reliability and observability"
+    ]
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "technicalSkills": ["Linux", "Networking", "Threat Modeling", "Scripting", "SIEM"],
+    "softSkills": ["Attention to Detail", "Communication"],
+    "domains": ["Security", "Risk"],
+    "tasks": [
+      "Monitor and triage security alerts",
+      "Conduct vulnerability assessments",
+      "Collaborate on incident response"
+    ]
+  }
+]

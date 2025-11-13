@@ -44,7 +44,7 @@ export function LandingHero({ onGetStarted }: LandingHeroProps) {
           <div className="flex items-center space-x-3">
             {/* Replaced Brain icon with custom PNG logo */}
             <img 
-              src="/my-logo.png"       // <-- your PNG file in public folder
+              src="/my-logo.png"      
               alt="AI Career Advisor Logo"
               className="w-10 h-10 rounded-xl shadow-glow object-contain"
             />
@@ -57,7 +57,7 @@ export function LandingHero({ onGetStarted }: LandingHeroProps) {
             onClick={onGetStarted}
             className="border-primary/20 hover:border-primary/40 hover:bg-primary/5"
           >
-            Get Started
+            Start My Journey
           </Button>
         </div>
       </nav>
@@ -89,7 +89,7 @@ export function LandingHero({ onGetStarted }: LandingHeroProps) {
                 onClick={onGetStarted}
                 className="bg-gradient-primary hover:shadow-glow text-lg px-8 py-4 rounded-2xl font-semibold shadow-lg hover:scale-105 transition-all"
               >
-                Ready to Get Started?
+                Explore Your Path
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
               <Button 
@@ -97,7 +97,7 @@ export function LandingHero({ onGetStarted }: LandingHeroProps) {
                 variant="outline" 
                 className="text-lg px-8 py-4 rounded-2xl border-primary/20 hover:border-primary/40 hover:bg-primary/5"
               >
-                View Demo
+                
               </Button>
             </div>
 
@@ -140,7 +140,7 @@ export function LandingHero({ onGetStarted }: LandingHeroProps) {
       <section className="container mx-auto px-6 py-20 relative z-10">
         <div className="text-center mb-16">
           <div className="inline-flex items-center px-4 py-2 bg-gradient-primary/5 border border-primary/10 rounded-full text-sm font-medium text-primary mb-6">
-            Explore Our Popular Features
+            .
           </div>
           <h2 className="text-4xl lg:text-5xl font-bold mb-6">
             <span className="text-foreground">Find the Right</span>
